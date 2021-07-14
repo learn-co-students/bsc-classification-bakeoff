@@ -1,5 +1,7 @@
 # Bake Off 2: This Time it's for Classification
 
+## Please submit your predictions [here](https://www.kaggle.com/c/bsc-classification-bakeoff/overview)
+
 ![Baking](https://media.giphy.com/media/xT0xePLIUyxnXso8co/giphy.gif)
 
 ## Challenge 
